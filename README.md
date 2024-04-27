@@ -1,1 +1,3 @@
 # Systeme-de-gestion-des-projets-Academiques
+
+Ce systeme est une plateforme centralisée pour la gestion efficace des projets dans un contexte académique. Cette plateforme offrira des fonctionnalités telles que la création de projets, la gestion des membres d'équipe, gestion des encadrants, suivi di progres...
